@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlparslanKilinc
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m currently learning Python & Javascript
 - 📫 How to reach me kilincalparslan70@gmail.com
 
 <!---
