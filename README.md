@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AlparslanKilinc
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I love connecting with different people so I will be more than happy to contribute to any project.
+- 🌱 I’m currently learning C
 - 📫 How to reach me kilincalparslan70@gmail.com
+
 
 <!---
 AlparslanKilinc/AlparslanKilinc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
