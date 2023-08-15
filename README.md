@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlparslanKilinc
 - 👀 I love connecting with different people so I will be more than happy to contribute to any project.
-- 🌱 I’m currently learning C
 - 📫 How to reach me kilincalparslan70@gmail.com
 
 
