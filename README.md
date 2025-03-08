@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlparslanKilinc
 - 👀 I love connecting with different people so I will be more than happy to contribute to any project.
-- 📫 How to reach me kilincalparslan70@gmail.com
+- 📫 How to reach me alparslankilincny@gmail.com
 
 
 <!---
